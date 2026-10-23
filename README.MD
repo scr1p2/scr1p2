@@ -1,7 +1,7 @@
 # Hey, I'm scr1p2 (Miggy Natera) 👋
 
 <p align="center">
-  This is my Github Account! I currently experiment with LLMs and trying to learn new and trending tech frameworks!
+  This is my Github Account! I currently experiment with LLMs, particularly AI agents and have been trying to learn new and trending tech frameworks!
 </p>
 
 <p align="center">
