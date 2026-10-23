@@ -1,14 +1,6 @@
 # Hey, I'm scr1p2 (Miggy Natera) 👋
 
 <p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1D4ED8,100:38BDF8&height=220&section=header&text=Building%20with%20AI%20%26%20data&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Practical%20tools%20for%20learning%20and%20workflows&descSize=16&descAlignY=58"
-    alt="A blue gradient banner reading Building with AI and data"
-    width="100%"
-  />
-</p>
-
-<p align="center">
   I build practical applications that bring AI into education and data workflows.
 </p>
 
