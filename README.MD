@@ -1,7 +1,7 @@
 # Hey, I'm scr1p2 (Miggy Natera) 👋
 
 <p align="center">
-  I build practical applications that bring AI into education and data workflows.
+  This is my Github Account! I currently experiment with LLMs and trying to learn new and trending tech frameworks!
 </p>
 
 <p align="center">
